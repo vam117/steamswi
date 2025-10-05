@@ -8,4 +8,6 @@ Offline Login Feature:
 Right-click on any logged-in account to switch to that account in Offline Mode.
 More features will be introduced in the future.
 
+Download at our release page : https://github.com/vam117/steamswi/releases
+
 Official Channel: https://t.me/steamswi
